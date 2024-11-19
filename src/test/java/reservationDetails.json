@@ -1,0 +1,8 @@
+[
+{"origin":"AIP",
+ "destination":"BHO",
+ "destination2":"BLR"},
+{"origin":"BLR",
+ "destination":"AIP",
+ "destination2":"BHO"}
+]
